@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi, I am Rembrandt Costa.
-I am a software developer. Currently I am Computer Science undergraduate at Federal University of Campina Grande, Brazil.
+Software developer. Currently, I am a Computer Science undergraduate at Federal University of Campina Grande, Brazil.
 I am open to internship opportunities and other positions. I am very passionate about understanding deeply how things work and have an excellent ability to learn quickly.
 
 
